@@ -1,0 +1,7 @@
+name: PistonProjectAPI
+version: '${project.version}'
+main: com.pistonproject.api.PistonProjectAPI
+api-version: 1.13
+prefix: PISTONPROJECT
+softdepend: [ PlaceholderAPI ]
+authors: [ SirOswaldo, segu23, CrowtyDB ]
